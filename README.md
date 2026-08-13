@@ -148,9 +148,8 @@ O Etanol tem poder calorífico inferior ao da Gasolina — um veículo flex cons
 ## 📁 Estrutura do Repositório
 
 ```
-├── imagens/                        # Prints e GIF de demonstração do dashboard
 ├── docs/                           # Documentação técnica detalhada por métrica/decisão
-├── radar_combustivel.pbix          # Arquivo do Power BI Desktop
+├── analytics_combustiveis.pbix          # Arquivo do Power BI Desktop
 └── README.md                       # Este documento
 ```
 
@@ -162,4 +161,4 @@ Power BI Desktop · Power Query (linguagem M) · DAX · API REST (engenharia rev
 ---
 
 ## 👤 Autor
-[Zeygler Oliveira] — [LINK DO PORTFÓLIO] · [[LINK DO LINKEDIN]](https://www.linkedin.com/in/zeygleroliveira/)
+[Zeygler Oliveira] — [LINK DO PORTFÓLIO](https://sites.google.com/view/portifoliozey/in%C3%ADcio) · [[LINK DO LINKEDIN]](https://www.linkedin.com/in/zeygleroliveira/)
