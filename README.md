@@ -2,7 +2,7 @@
 
 Painel de Business Intelligence desenvolvido em Power BI para monitoramento de preços de combustíveis no Brasil, com foco em benchmarking regional e decisão de abastecimento de frota (Etanol × Gasolina). Dados extraídos via engenharia reversa de API pública, tratados em Power Query, modelados em Star Schema e apresentados em dois painéis interativos.
 
-🔗 **[Acessar Dashboard Interativo](LINK_PUBLICAR_NA_WEB_AQUI)**
+🔗 **[Acessar Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiYWNmYzE1MDMtZjlmYS00NDgxLThmYmMtZTI1ZjFkYjNjNjk4IiwidCI6IjQ4NzIyZDY4LWU5Y2YtNGQ1Mi05ODNmLWU5MmZiNzdkNTczNyJ9)**
 
 ---
 
@@ -162,4 +162,4 @@ Power BI Desktop · Power Query (linguagem M) · DAX · API REST (engenharia rev
 ---
 
 ## 👤 Autor
-[SEU NOME] — [LINK DO PORTFÓLIO] · [LINK DO LINKEDIN]
+[Zeygler Oliveira] — [LINK DO PORTFÓLIO] · [[LINK DO LINKEDIN]](https://www.linkedin.com/in/zeygleroliveira/)
