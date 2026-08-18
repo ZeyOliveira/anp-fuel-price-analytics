@@ -161,4 +161,4 @@ Power BI Desktop · Power Query (linguagem M) · DAX · API REST (engenharia rev
 ---
 
 ## 👤 Autor
-[Zeygler Oliveira] — [LINK DO PORTFÓLIO](https://sites.google.com/view/zeygler-oliveira-bi-analytics/in%C3%ADcio) · [[LINK DO LINKEDIN]](https://www.linkedin.com/in/zeygleroliveira/)
+Zeygler Oliveira — [LINK DO PORTFÓLIO](https://sites.google.com/view/zeygler-oliveira-bi-analytics/in%C3%ADcio) · [LINK DO LINKEDIN](https://www.linkedin.com/in/zeygleroliveira/)
